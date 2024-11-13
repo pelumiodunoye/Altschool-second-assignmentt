@@ -36,7 +36,7 @@ p {
   gap: 8px;
 }
 .btn {
-  background-color: aliceblue;
+  background-color: blue;
   border: none;
   border-radius: 8px;
   padding: 16px 32px;
@@ -46,14 +46,9 @@ p {
 }
 
 .btn a {
-  color: inherit;
+  color: white;
   text-decoration: none;
   display: block;
-}
-
-.btn:hover {
-  background-color: blue;
-  transition: background-color 0.5s ease;
 }
 
 
